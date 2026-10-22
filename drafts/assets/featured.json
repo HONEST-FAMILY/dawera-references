@@ -1,0 +1,90 @@
+[
+ {
+  "img": "featured/f571.jpg",
+  "student": "김윤하",
+  "idx": 571,
+  "title": "검은 수녀들",
+  "tags": [
+   "Motion Graphic"
+  ],
+  "url": "https://www.dawera.co.kr/work/list?viewMode=view&idx=571"
+ },
+ {
+  "img": "featured/f570.jpg",
+  "student": "윤준혁",
+  "idx": 570,
+  "title": "나는 곧 좀비가 된다.",
+  "tags": [
+   "Asset",
+   "Lookdev"
+  ],
+  "url": "https://www.dawera.co.kr/work/list?viewMode=view&idx=570"
+ },
+ {
+  "img": "featured/f568.jpg",
+  "student": "오소영",
+  "idx": 568,
+  "title": "화성에 상륙해 버린 롯데리아",
+  "tags": [
+   "Motion Graphic"
+  ],
+  "url": "https://www.dawera.co.kr/work/list?viewMode=view&idx=568"
+ },
+ {
+  "img": "featured/f566.jpg",
+  "student": "김모예",
+  "idx": 566,
+  "title": "리썰 컴퍼니X대탈출",
+  "tags": [
+   "Asset",
+   "Lookdev"
+  ],
+  "url": "https://www.dawera.co.kr/work/list?viewMode=view&idx=566"
+ },
+ {
+  "img": "featured/f564.jpg",
+  "student": "박효은",
+  "idx": 564,
+  "title": "과욕의 끝",
+  "tags": [
+   "Motion Graphic"
+  ],
+  "url": "https://www.dawera.co.kr/work/list?viewMode=view&idx=564"
+ },
+ {
+  "img": "featured/f562.jpg",
+  "student": "채어진",
+  "idx": 562,
+  "title": "FINCH - The Resistance",
+  "tags": [
+   "Asset",
+   "Unreal Engine"
+  ],
+  "url": "https://www.dawera.co.kr/work/list?viewMode=view&idx=562"
+ },
+ {
+  "img": "featured/f18.jpg",
+  "student": "최혜림",
+  "idx": 18,
+  "title": null,
+  "tags": [
+   "General",
+   "Asset",
+   "Lighting"
+  ],
+  "youtube": "https://www.youtube.com/watch?v=HMwuyT0xHrk",
+  "url": "https://www.dawera.co.kr/work/list?viewMode=view&idx=18"
+ },
+ {
+  "img": "featured/f472.jpg",
+  "student": "윤예림",
+  "idx": 472,
+  "title": null,
+  "tags": [
+   "Lookdev",
+   "Unreal Engine 5"
+  ],
+  "youtube": "https://www.youtube.com/watch?v=L7x3gaGaE34",
+  "url": "https://www.dawera.co.kr/work/list?viewMode=view&idx=472"
+ }
+]

@@ -1,0 +1,123 @@
+[
+ {
+  "id": "c1",
+  "src": "video/c1.mp4",
+  "poster": "video/c1.jpg",
+  "youtube": "https://www.youtube.com/watch?v=SryEROjO9bk",
+  "title": "우리 동네 언리얼 대장",
+  "student": "유나영",
+  "course": "언리얼엔진",
+  "work_idx": 572,
+  "bytes": 696243
+ },
+ {
+  "id": "c2",
+  "src": "video/c2.mp4",
+  "poster": "video/c2.jpg",
+  "youtube": "https://www.youtube.com/watch?v=53fbvti4y6E",
+  "title": "검은 수녀들",
+  "student": "김윤하",
+  "course": "모션그래픽",
+  "work_idx": 571,
+  "bytes": 545864
+ },
+ {
+  "id": "c3",
+  "src": "video/c3.mp4",
+  "poster": "video/c3.jpg",
+  "youtube": "https://www.youtube.com/watch?v=D9VmLg2FBKk",
+  "title": "내 달걀 내 곁에",
+  "student": "장예지",
+  "course": "3D 애니메이션",
+  "work_idx": 569,
+  "bytes": 597388
+ },
+ {
+  "id": "c4",
+  "src": "video/c4.mp4",
+  "poster": "video/c4.jpg",
+  "youtube": "https://www.youtube.com/watch?v=Gg5hKbziilQ",
+  "title": "The Hunter",
+  "student": "김승연",
+  "course": "언리얼엔진",
+  "work_idx": 567,
+  "bytes": 1484298
+ },
+ {
+  "id": "c5",
+  "src": "video/c5.mp4",
+  "poster": "video/c5.jpg",
+  "youtube": "https://www.youtube.com/watch?v=MYRUZHSF7Ls",
+  "title": "리썰 컴퍼니X대탈출",
+  "student": "김모예",
+  "course": "에셋·룩뎁",
+  "work_idx": 566,
+  "bytes": 739221
+ },
+ {
+  "id": "c6",
+  "src": "video/c6.mp4",
+  "poster": "video/c6.jpg",
+  "youtube": "https://www.youtube.com/watch?v=jaMntshHh3Q",
+  "title": "과욕의 끝",
+  "student": "박효은",
+  "course": "모션그래픽",
+  "work_idx": 564,
+  "bytes": 440278
+ },
+ {
+  "id": "c7",
+  "src": "video/c7.mp4",
+  "poster": "video/c7.jpg",
+  "youtube": "https://www.youtube.com/watch?v=u-WCyZ1XJ8A",
+  "title": "rhode 갖고 싶다",
+  "student": "김윤하",
+  "course": "모션그래픽",
+  "work_idx": 553,
+  "bytes": 685566
+ },
+ {
+  "id": "c8",
+  "src": "video/c8.mp4",
+  "poster": "video/c8.jpg",
+  "youtube": "https://www.youtube.com/watch?v=liWxCwhBUgs",
+  "title": "A L I E N",
+  "student": "김유림",
+  "course": "모션그래픽",
+  "work_idx": 558,
+  "bytes": 679078
+ },
+ {
+  "id": "c9",
+  "src": "video/c9.mp4",
+  "poster": "video/c9.jpg",
+  "youtube": "https://www.youtube.com/watch?v=hoiIY1JALxY",
+  "title": "For honor, For Country",
+  "student": "황병창",
+  "course": "에셋·언리얼엔진",
+  "work_idx": 557,
+  "bytes": 1604349
+ },
+ {
+  "id": "c10",
+  "src": "video/c10.mp4",
+  "poster": "video/c10.jpg",
+  "youtube": "https://www.youtube.com/watch?v=xzZppj32feI",
+  "title": "다워라 로고 애니메이션",
+  "student": "이예경",
+  "course": "애니메이션",
+  "work_idx": 560,
+  "bytes": 1094940
+ },
+ {
+  "id": "c11",
+  "src": "video/c11.mp4",
+  "poster": "video/c11.jpg",
+  "youtube": "https://www.youtube.com/watch?v=0CbTcNORTJg",
+  "title": "트리거(Trigger)",
+  "student": "이예경",
+  "course": "모션그래픽",
+  "work_idx": 554,
+  "bytes": 532206
+ }
+]
